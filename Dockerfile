@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kube-scheduler:v1.18.5
+FROM k8s.gcr.io/etcd:3.4.3-0
